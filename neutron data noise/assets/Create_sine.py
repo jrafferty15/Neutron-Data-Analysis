@@ -14,7 +14,8 @@ import matplotlib.pyplot as plt
 class Create_Sine:
     
     # methods
-    def __init__(self, freq,N,amp,fs): #name is string, subplot is plt obj from matplotlib, path is string
+    def __init__(self, freq,N,amp,fs): #makes a sine wave to use instead of using data file
+       
         self.freq = freq
         self.N = N
         self.amp = amp
