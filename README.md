@@ -10,7 +10,7 @@
 
 
 
-Mainly made this automate some data analysis needed for a project. Uses example excel file with random data that a collegue gave me. Can be used for anything really that requires digital signal processing for analysis. Used Anaconda enviorment and Spyder 3.8. this readme will detail how to use. 
+Mainly made this automate some data analysis needed for a project. Uses example excel file with random data that a collegue gave me. Can be used for anything really that requires digital signal processing for analysis. Used Anaconda environment and Spyder 3.8. this readme will detail how to use. 
 
 0. I am a big fan of anaconda and spyder. Its fairly easy to install various libraries using the navigator. If you have some experience w/python then you can use whatever IDE/Distrubtion is most convenient. 
 
